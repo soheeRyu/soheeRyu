@@ -1,8 +1,5 @@
 ### Hi, I'm Sohee 👋
 
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning C#.
 - 🤔 I’m looking for help with data analysis.
 - 💲 I used to work in a bank.
