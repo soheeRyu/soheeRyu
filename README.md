@@ -8,9 +8,7 @@
 - ⚡ Fun fact: I'm great at Tetris! 
 - 📫 How to reach me
 
-    <a href="https://www.linkedin.com/in/sohee-ryu/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-    </a>
+     [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sohee-ryu/)
 
 
 
