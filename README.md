@@ -1,5 +1,7 @@
-### Hi, I'm Sohee 👋
+### Hi, I'm Sohee 
      
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="150">
+ 
 - 🌱 I’m currently learning C#.
 - 💬 Ask me about school life as a software development student.
 - 😄 Pronouns: she/her
