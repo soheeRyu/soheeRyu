@@ -1,7 +1,5 @@
 ### Hi, I'm Sohee 👋
      
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=soheeRyu&layout=compact"/>
-     
 - 🌱 I’m currently learning C#.
 - 💬 Ask me about school life as a software development student.
 - 😄 Pronouns: she/her
