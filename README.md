@@ -6,7 +6,7 @@
 - 💬 Ask me about school life as a software development student.
 - 😄 Pronouns: she/her
 - 📫 How to reach me
-<a href="https://www.linkedin.com/in/sohee-ryu/"><img height="17" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+<a href="https://www.linkedin.com/in/sohee-ryu/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>    
 
 <br><br>
